@@ -2,10 +2,9 @@
   <img src="./assets/Beige & Black Geometric Technology LinkedIn Banner.png" alt="logo" width="800">
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+meu+nome+%C3%A9+Pedro+Henrique)](https://github.com/peuzadev)
-</p>
-
+<div style="text-align: center;">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+meu+nome+%C3%A9+Pedro+Henrique)](https://github.com/peuzadev)
+</div>
   Um desenvolvedor apaixonado por criar soluções inovadoras, ciência de dados e desenvolvimento de aplicações!
 </p>
 
