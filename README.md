@@ -21,7 +21,7 @@
 </div>
 
 <br>
-## 🔗 Socials
+# 🔗 Socials
 
 <p align="left">
   <a href="(https://www.linkedin.com/in/pedro-henrique-a15534264/)" target="_blank">
@@ -39,7 +39,7 @@
   </p>
 
 <br>
-## 🛠️ Minhas Habilidades (Tech Stack)
+# 🛠️ Minhas Habilidades (Tech Stack)
 
 <p align="left">
   <code><img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></code>
