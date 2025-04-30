@@ -5,18 +5,20 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+meu+nome+%C3%A9+Pedro+Henrique)](https://github.com/peuzadev)
  
-<span style="font-size: 3.5em; font-weight: bold; display: block; margin-bottom: 10px;">
+
+<div align="center">
+  <span style="font-size: 1.5em; font-weight: bold; display: block; margin-bottom: 10px;">
     Um desenvolvedor apaixonado por criar soluções inovadoras, ciência de dados e desenvolvimento de aplicações.
   </span>
 
-  <span style="font-size: 3.5em; font-weight: bold; display: block; margin-bottom: 10px;">
+  <span style="font-size: 1.5em; font-weight: bold; display: block; margin-bottom: 10px;">
     Email: pedroprodevelopfull@gmail.com
   </span>
 
-  <span style="font-size: 3.5em; font-weight: bold; display: block; margin-bottom: 10px;">
+  <span style="font-size: 1.5em; font-weight: bold; display: block; margin-bottom: 10px;">
     Desenvolvedor Fullstack Junior
   </span>
-
+</div>
 
 <br>
 ## 🔗 Socials
