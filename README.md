@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/Vanilla@1x-1.3s-273px-23px (1).gif" alt="Pedro digitando" width="500">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+meu+nome+%C3%A9+Pedro+Henrique)]([https://git.io/typing-svg](https://github.com/peuzadev))
 </p>
 
 <p align="center">
