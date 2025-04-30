@@ -28,16 +28,16 @@
 
 <p align="left">
   <a href="(https://www.linkedin.com/in/pedro-henrique-a15534264/)" target="_blank">
-    <img align="center" alt="LinkedIn" height="15" width="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" alt="LinkedIn" height="30" width="60" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="(https://github.com/peuzadev/peuzadev/)" target="_blank">
-    <img align="center" alt="GitHub" height="15" width="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" alt="GitHub" height="30" width="60" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="(https://www.instagram.com/skrpeu/)" target="_blank">
-    <img align="center" alt="Instagram" height="15" width="30" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="center" alt="Instagram" height="30" width="60" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="https://discord.com/users/chacall0" target="_blank">
-  <img align="center" alt="Discord" height="15" width="30" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <img align="center" alt="Discord" height="30" width="60" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
   </p>
 
