@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/animação.gif" alt="Pedro digitando">
+  <img src="./assets/Vanilla@1x-1.3s-273px-23px.gif" alt="Pedro digitando">
 </p>
 
 <p align="center">
