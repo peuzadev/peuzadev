@@ -36,6 +36,9 @@
   <a href="(https://www.instagram.com/skrpeu/)" target="_blank">
     <img align="center" alt="Instagram" height="30" width="30" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+<a href="https://discord.com/users/chacall0" target="_blank">
+  <img align="center" alt="Discord" height="30" width="30" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
   </p>
 
 <br>
