@@ -10,11 +10,11 @@
   <span style="font-size: 1.5em; font-weight: bold; display: block; margin-bottom: 10px;">
     Um desenvolvedor apaixonado por criar soluções inovadoras, ciência de dados e desenvolvimento de aplicações.
   </span>
-
+<br>
   <span style="font-size: 1.5em; font-weight: bold; display: block; margin-bottom: 10px;">
     Email: pedroprodevelopfull@gmail.com
   </span>
-
+<br>
   <span style="font-size: 1.5em; font-weight: bold; display: block; margin-bottom: 10px;">
     Desenvolvedor Fullstack Junior
   </span>
