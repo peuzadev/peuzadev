@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.instagram.com/sualogoaqui_oficial/" alt="[Descrição da sua logo]" width="200">
+  <img src="./assets/Beige & Black Geometric Technology LinkedIn Banner" alt="[Descrição da sua logo]" width="200">
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou Pedro Henrique! </h1>
