@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Beige & Black Geometric Technology LinkedIn Banner.png" alt="logo" width="800">
+  <img src="./assets/Beige & Black Geometric Technology LinkedIn Banner.png" alt="logo" width="1200">
 </p>
 
 
