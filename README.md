@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/meunome.gif" alt="Pedro digitando">
+  <img src="./assets/meunome.gif" alt="Pedro digitando" width="500">
 </p>
 
 <p align="center">
