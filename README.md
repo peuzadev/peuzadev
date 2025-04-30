@@ -4,8 +4,10 @@
 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+meu+nome+%C3%A9+Pedro+Henrique)](https://github.com/peuzadev)
-
-  Um desenvolvedor apaixonado por criar soluções inovadoras, ciência de dados e desenvolvimento de aplicações!
+ 
+#**Um desenvolvedor apaixonado por criar soluções inovadoras, ciência de dados e desenvolvimento de aplicações.#**
+#**Email: pedroprodevelopfull@gmail.com#**
+#**Desenvolvedor Fullstack Junior#**
 </p>
 
 <br>
