@@ -2,7 +2,9 @@
   <img src="./assets/Beige & Black Geometric Technology LinkedIn Banner.png" alt="logo" width="800">
 </p>
 
-<h1 align="center">Olá! 👋 Eu sou Pedro Henrique! </h1>
+<p align="center">
+  <img src="./assets/animação.gif" alt="Pedro digitando">
+</p>
 
 <p align="center">
   Um desenvolvedor apaixonado por criar soluções inovadoras, ciência de dados e desenvolvimento de aplicações!
