@@ -24,13 +24,13 @@
 # 🔗 Socials
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/pedro-henrique-a15534264/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-a15534264/" target="_blank">
     <img align="center" alt="LinkedIn" height="40" width="100" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="(https://github.com/peuzadev/peuzadev/)" target="_blank">
+  <a href="https://github.com/peuzadev/peuzadev/" target="_blank">
     <img align="center" alt="GitHub" height="40" width="100" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="(https://www.instagram.com/skrpeu/)" target="_blank">
+  <a href="https://www.instagram.com/skrpeu/" target="_blank">
     <img align="center" alt="Instagram" height="40" width="100" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="https://discord.com/users/chacall0" target="_blank">
